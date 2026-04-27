@@ -59,7 +59,7 @@
     "i18next": "latest",
     "i18next-browser-languagedetector": "latest",
     "input-otp": "1.4.1",
-    "next": "15.5.8",
+    "next": "15.5.9",
     "next-auth": "^4.24.11",
     "next-themes": "latest",
     "prop-types": "latest",
